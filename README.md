@@ -6,3 +6,4 @@
 4. Вносим изменения. В данном примере будет изменен файл README
 5. Добавляем все файлы, которые мы хотим внести: git add README.md
 6. Делаем commit с комментарием для всех добавленных файлов: git commit -m "Edited README file"
+7. Необходимо задать upstream ветку. Для этого можно использовать команду push: git push --set-upstream origin develop
